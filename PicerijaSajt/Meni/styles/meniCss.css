@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    background: url(../images/pocetnaSlika.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	padding-top:60px;
+}
+#prviJumbotron
+{
+   background: rgb(234, 241, 252);
+   background: rgba(234, 241, 252, 0.4); 
+   padding-top:20px;
+  
+}
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+#unutrasnjiRowPadding
+{
+	float: none;
+    padding: 0 auto;
+}
+#boxSettings
+{
+	border-width:1px;
+	border-style:solid;
+	border-color:#ededed;
+	border-left:none;
+	border-right:none;
+}
+#navbarText
+{
+	color:white;
+	font-weight:bold;
+	padding:10px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	font-size:1.7em;
+}
+#kontaktPadding
+{
+	padding-right:10px;
+}

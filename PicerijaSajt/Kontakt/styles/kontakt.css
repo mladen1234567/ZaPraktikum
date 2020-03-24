@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    background: url(../../images/pocetnaSlika.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	padding-top:10px;
+}
+.container
+{
+	padding-top:80px;
+}
+#picerijaLogo
+{
+	padding-top:0px;
+	margin-top:0px;
+}
+.jumbotron {
+   background: rgb(234, 241, 252); 
+   background: rgba(234, 241, 252, 0.7); 
+}
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+#mapPadding
+{
+	padding:2px 2px  2px 2px;
+}
+#navbarText
+{
+	color:white;
+	font-weight:bold;
+	padding:10px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	font-size:1.7em;
+}
+#kontaktPadding
+{
+	padding-right:10px;
+}
+
